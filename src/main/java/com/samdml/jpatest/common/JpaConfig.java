@@ -1,4 +1,4 @@
-package com.samdml.common;
+package com.samdml.jpatest.common;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
